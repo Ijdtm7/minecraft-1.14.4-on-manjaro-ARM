@@ -18,7 +18,7 @@ then do: cd ~/Minecraft
 NOTE: you can change ~/Minecraft to ~/insertnamehere if it is already taken, but it is much easier to just use ~/Minecraft. this also applies to ~/lwjgl3arm64 which gets created from the setup script
 
 Now in Minecraft folder do: sudo chmod +x setupMC1_14_4.sh
-You may want to edit this if you are not going into ~/Minecraft and change the line that says DIR=~/Minecraft
+You may want to edit this if you are not going into ~/Minecraft and change the line that says DIR=~/Minecraft Also ignore the strikethrough lines here! Formatting error i cant fix
 then run it by doing ./setupMC1_14_4.sh
 
 We now need the minecraft assets and versions to be created. we will do this by running the minecraft launcher. However you cannot use the launcher for actually launching the game, for that we have the run script.
