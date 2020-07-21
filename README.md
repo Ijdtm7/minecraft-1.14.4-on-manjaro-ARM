@@ -14,6 +14,7 @@ now make that the default java by doing: sudo archlinux-java set java-13-openjdk
 Next Lets get our setup script, run script, and minecraft launcher.
 In the terminal run
 git clone https://github.com/Ijdtm7/minecraft-1.14.4-on-manjaro-ARM.git ~/Minecraft
+
 then do: cd ~/Minecraft
 NOTE: you can change ~/Minecraft to ~/insertnamehere if it is already taken, but it is much easier to just use ~/Minecraft. this also applies to ~/lwjgl3arm64 which gets created from the setup script
 
